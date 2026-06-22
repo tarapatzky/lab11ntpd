@@ -1,0 +1,6 @@
+v1
+{"path":"file:///mnt/c/Users/makst/PycharmProjects/GITLAB1/GITLAB1/lab11_streaming/data/input_stream/batch_0060.csv","timestamp":1782128220485,"batchId":10}
+{"path":"file:///mnt/c/Users/makst/PycharmProjects/GITLAB1/GITLAB1/lab11_streaming/data/input_stream/batch_0061.csv","timestamp":1782128225516,"batchId":10}
+{"path":"file:///mnt/c/Users/makst/PycharmProjects/GITLAB1/GITLAB1/lab11_streaming/data/input_stream/batch_0062.csv","timestamp":1782128230564,"batchId":10}
+{"path":"file:///mnt/c/Users/makst/PycharmProjects/GITLAB1/GITLAB1/lab11_streaming/data/input_stream/batch_0063.csv","timestamp":1782128235642,"batchId":10}
+{"path":"file:///mnt/c/Users/makst/PycharmProjects/GITLAB1/GITLAB1/lab11_streaming/data/input_stream/batch_0064.csv","timestamp":1782128240683,"batchId":10}

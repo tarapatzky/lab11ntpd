@@ -1,0 +1,6 @@
+event_time,user_id,category,amount,status
+2026-06-22 13:35:31,u031,books,174.51,failed
+2026-06-22 13:35:38,u077,electronics,486.11,paid
+2026-06-22 13:35:25,u047,electronics,296.62,failed
+2026-06-22 13:35:38,u018,groceries,394.86,paid
+2026-06-22 13:35:35,u055,tools,441.62,paid

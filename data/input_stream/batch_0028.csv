@@ -1,0 +1,6 @@
+event_time,user_id,category,amount,status
+2026-06-22 13:34:07,u015,clothing,234.54,paid
+2026-06-22 13:34:05,u033,books,488.41,paid
+2026-06-22 13:34:10,u036,groceries,247.55,paid
+2026-06-22 13:34:07,u052,clothing,284.98,paid
+2026-06-22 13:34:13,u026,groceries,404.18,paid

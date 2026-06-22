@@ -1,0 +1,5 @@
+event_time,user_id,category,amount,status
+2026-06-22 13:34:34,u077,tools,143.12,paid
+2026-06-22 13:34:31,u085,groceries,58.21,paid
+2026-06-22 13:34:39,u049,books,215.41,failed
+2026-06-22 13:34:32,u038,tools,178.68,paid
